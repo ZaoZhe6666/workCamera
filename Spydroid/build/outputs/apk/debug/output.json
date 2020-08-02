@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "net.majorkernelpanic.spydroid",
+  "variantName": "debug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "properties": [],
+      "versionCode": 1000,
+      "versionName": "1000",
+      "enabled": true,
+      "outputFile": "Spydroid-debug.apk"
+    }
+  ]
+}

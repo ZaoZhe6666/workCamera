@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "net.majorkernelpanic.spydroid",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1000,
+        "versionName": "10",
+        "outputFile": "Spydroid-debug.apk",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "net.majorkernelpanic.spydroid",
+        "split": "",
+        "minSdkVersion": "14"
+      }
+    }
+  ]
+}
