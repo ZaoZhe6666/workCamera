@@ -94,20 +94,20 @@
     <item name="title" type="id"/>
     <integer name="cancel_button_image_alpha">127</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <string name="about0">Spydroid is a fun and open source application !</string>
+    <string name="about0">myCamera is a fun and open source application !</string>
     <string name="about1">If you don\'t understand how to use it, the google page of the project contains a FAQ. For example, you will find explanations on how to play the stream in VLC</string>
     <string name="about2">Don\'t forget to rate the app, it\'s really important, your life depends on it !</string>
     <string name="about3">You might also like it on facebook, why not ? Come on, like it ! It will be our little secret</string>
     <string name="about4">Have Fun !</string>
-    <string name="about5">Help me to translate Spydroid in other languages ! If you are willing to help me in this crazy quest, send me a mail :)</string>
-    <string name="app_name">Spydroid</string>
+    <string name="about5">Help me to translate myCamera in other languages ! If you are willing to help me in this crazy quest, send me a mail :)</string>
+    <string name="app_name">myCamera</string>
     <string name="bind_failed">You need to choose another port for the %s server !</string>
     <string name="bitrate">0 kbps</string>
-    <string name="description">Capture live video and audio streaming from your smartphone with Spydroid</string>
+    <string name="description">Capture live video and audio streaming from your smartphone with myCamera</string>
     <string name="line1">In chrome or firefox type</string>
     <string name="line2">In VLC open</string>
-    <string name="notification_content">Beware ! Spydroid is running ;)</string>
-    <string name="notification_title">Spydroid</string>
+    <string name="notification_content">Beware ! myCamera is running ;)</string>
+    <string name="notification_title">myCamera</string>
     <string name="options">Options</string>
     <string name="options_activity_title">Settings</string>
     <string name="page0">Main</string>
@@ -138,7 +138,7 @@
     <string name="settings28">RTSP server</string>
     <string name="settings29">Enabled</string>
     <string name="settings3">Sound streaming</string>
-    <string name="settings30">Useful to use Spydroid directly with VLC</string>
+    <string name="settings30">Useful to use myCamera directly with VLC</string>
     <string name="settings31">RTSP server port</string>
     <string name="settings32">Port used by the RTSP server</string>
     <string name="settings4">Enable/Disable audio streaming</string>

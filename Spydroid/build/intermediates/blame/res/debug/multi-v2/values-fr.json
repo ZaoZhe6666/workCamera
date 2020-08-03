@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Android\\spydroid-ipcamera-master1\\Spydroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "outputFile": "D:\\workCamera\\spydroid-ipcamera-master1\\Spydroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
             "map": [
                 {
-                    "source": "D:\\Android\\spydroid-ipcamera-master1\\Spydroid\\src\\main\\res\\values-fr\\strings.xml",
+                    "source": "D:\\workCamera\\spydroid-ipcamera-master1\\Spydroid\\src\\main\\res\\values-fr\\strings.xml",
                     "from": {
                         "startLines": "15,16,17,18,19,20,5,52,6,7,8,13,12,3,9,54,55,56,53,14,4,21,22,31,32,33,34,35,36,37,38,23,39,40,41,42,43,44,45,46,47,48,24,49,50,51,25,26,27,28,29,30,11,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

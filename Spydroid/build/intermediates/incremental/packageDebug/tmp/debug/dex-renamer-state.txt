@@ -1,4 +1,4 @@
-#Mon Jul 27 09:56:11 CST 2020
-base.0=D\:\\Android\\spydroid-ipcamera-master1\\Spydroid\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Mon Aug 03 00:53:52 CST 2020
+base.0=D\:\\workCamera\\spydroid-ipcamera-master1\\Spydroid\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
