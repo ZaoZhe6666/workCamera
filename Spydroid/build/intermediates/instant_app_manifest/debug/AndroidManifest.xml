@@ -3,7 +3,7 @@
     package="net.majorkernelpanic.spydroid"
     android:targetSandboxVersion="2"
     android:versionCode="1000"
-    android:versionName="10" >
+    android:versionName="1" >
 
     <uses-sdk
         android:minSdkVersion="14"

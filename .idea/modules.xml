@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spydroid/Spydroid.iml" filepath="$PROJECT_DIR$/.idea/modules/Spydroid/Spydroid.iml" group="spydroid-ipcamera-master1/Spydroid" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spydroid-ipcamera-master1.iml" filepath="$PROJECT_DIR$/.idea/modules/spydroid-ipcamera-master1.iml" group="spydroid-ipcamera-master1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spydroid/Spydroid.iml" filepath="$PROJECT_DIR$/.idea/modules/Spydroid/Spydroid.iml" group="workCamera/Spydroid" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/workCamera.iml" filepath="$PROJECT_DIR$/.idea/modules/workCamera.iml" group="workCamera" />
     </modules>
   </component>
 </project>

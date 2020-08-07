@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\workCamera\\spydroid-ipcamera-master1\\Spydroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
+            "outputFile": "H:\\CameraSpy3\\workCamera\\Spydroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
             "map": [
                 {
-                    "source": "D:\\Android\\AndroidStudio\\SomeSet\\caches\\transforms-2\\files-2.1\\1ab39b3983fdaa6becb1fc7dcf473ffa\\support-compat-26.1.0\\res\\values-bg\\values-bg.xml",
+                    "source": "C:\\Users\\Y\\.gradle\\caches\\transforms-2\\files-2.1\\1ab39b3983fdaa6becb1fc7dcf473ffa\\support-compat-26.1.0\\res\\values-bg\\values-bg.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

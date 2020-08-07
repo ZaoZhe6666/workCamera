@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\workCamera\\spydroid-ipcamera-master1\\Spydroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+            "outputFile": "H:\\CameraSpy3\\workCamera\\Spydroid\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
             "map": [
                 {
-                    "source": "D:\\Android\\AndroidStudio\\SomeSet\\caches\\transforms-2\\files-2.1\\1ab39b3983fdaa6becb1fc7dcf473ffa\\support-compat-26.1.0\\res\\values-de\\values-de.xml",
+                    "source": "C:\\Users\\Y\\.gradle\\caches\\transforms-2\\files-2.1\\1ab39b3983fdaa6becb1fc7dcf473ffa\\support-compat-26.1.0\\res\\values-de\\values-de.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "D:\\workCamera\\spydroid-ipcamera-master1\\Spydroid\\src\\main\\res\\values-de\\strings.xml",
+                    "source": "H:\\CameraSpy3\\workCamera\\Spydroid\\src\\main\\res\\values-de\\strings.xml",
                     "from": {
                         "startLines": "14,15,16,17,18,19,4,51,5,6,7,12,11,2,8,53,54,55,52,13,3,20,21,30,31,32,33,34,35,36,37,22,38,39,40,41,42,43,44,45,46,47,23,48,49,50,24,25,26,27,28,29,10,9",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,1,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
